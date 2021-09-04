@@ -26,3 +26,7 @@ placement, using the model proposed above.
 ### Sensor Placement after Simulated Annealing
 
 <img src="https://github.com/KKBS22/Optimal_NodePlacement_SA/blob/master/After_SA_1.png" width="500">
+
+### Cost Trend after each iteration
+
+<img src="https://github.com/KKBS22/Optimal_NodePlacement_SA/blob/master/SA_Swap_Trend_1.png" width="500">
